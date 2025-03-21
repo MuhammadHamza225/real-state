@@ -3,8 +3,8 @@ import Companies from "./components/Companies";
 import Residens from "./components/Residens";
 import Value from "./components/Value";
 import Contact from "./components/Contact";
-import GetStarted from "./components/getstarted";
-import Footer from "./components/footer";
+import GetStarted from "./components/Getstarted";
+import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import { useRef } from "react";
 function App() {
